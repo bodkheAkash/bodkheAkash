@@ -34,7 +34,7 @@
 <br>
 <br>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=abhishek7389&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&custom_title=Github%20Stats&line_height=24)](https://github.com/anuraghazra/github-readme-stats)</td>
+
   <td>
  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" height="200" width="350">
  <h3> Find me around the web 🌎:</h3>
